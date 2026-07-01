@@ -1,0 +1,3 @@
+ubuntu-server
+usn: vboxuser
+pass: changeme

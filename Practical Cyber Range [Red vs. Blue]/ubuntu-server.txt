@@ -1,3 +1,3 @@
-ubuntu-server
+=== ubuntu-server credentials ===
 usn: vboxuser
 pass: changeme
